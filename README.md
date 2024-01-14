@@ -15,7 +15,7 @@
 <br/>
 
 ## About me 👨‍💻
-📱 I’m a Software developer, I love creating apps for iOS<br> Feel free to contact me for contributing in projects<br>
+
 📱Self-motivated software engineer with over 10 years of work experience as a specific developer in diverse domains including **FinTech**, **telehealth**, **e-learning**, and **e-commerce**, With experience in **startups**.<br>
 
 🧩Willing to utilize the skill sets in web applications and mobile applications; eager to learn and reliable. Committed to providing high quality outcomes to every project, excellent cooperation in teamwork, problem solving and critical thinking. Professional, capable and motivated individual who consistently performs in challenging environments.
