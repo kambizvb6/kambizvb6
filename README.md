@@ -24,7 +24,7 @@
 - 📱 I'm currently working on native **iOS development** (**Swift** | **SwiftUI**)
 - 💬 English (🇺🇸) and persian (🇮🇷) are my two main spoken languages
 - 🙋‍♂️ Let's talk! Hit me up on [LinkedIn](https://www.linkedin.com/in/kambiz-dehghani/)
-- 🎓 Software Engineering ([UNINTER](https://www.uregina.ca/))
+- 🎓 Software Engineering ([U OF R](https://www.uregina.ca/))
 
 
 <br/>
