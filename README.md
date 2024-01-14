@@ -20,6 +20,13 @@
 
 🧩Willing to utilize the skill sets in web applications and mobile applications; eager to learn and reliable. Committed to providing high quality outcomes to every project, excellent cooperation in teamwork, problem solving and critical thinking. Professional, capable and motivated individual who consistently performs in challenging environments.
 
+
+- 📱 I'm currently working on native **iOS development** (**Swift** | **SwiftUI**)
+- 💬 English (🇺🇸) and persian (🇮🇷) are my two main spoken languages
+- 🙋‍♂️ Let's talk! Hit me up on [LinkedIn](https://www.linkedin.com/in/kambiz-dehghani/)
+- 🎓 Software Engineering ([UNINTER](https://www.uregina.ca/))
+
+
 <br/>
 
 
