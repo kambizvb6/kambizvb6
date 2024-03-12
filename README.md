@@ -3,7 +3,7 @@
 
 <br/>
 
-## iOS Development 📱
+## iOS and Web Development 📱
 - <img width=15 src="https://user-images.githubusercontent.com/59176579/155759319-69ca0edf-36dd-4d9d-b7a8-1074b2112e29.png"/> Swift & iOS Frameworks
 - <img width=15 src="https://user-images.githubusercontent.com/59176579/158831428-918705d6-4bc3-4456-9e54-8cce2da587d7.png"/> UIKit, SwiftUI
 - <img width=15 src="https://user-images.githubusercontent.com/59176579/155759739-c594c55b-6f04-4feb-9278-bc82258ff89e.png"/> Unit, UI & Integration tests
