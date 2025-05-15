@@ -5,11 +5,13 @@
 
 ## Software Engineer ⚡
 
-- <img width=15 src="https://img.icons8.com/ios/50/power-platform.png"/> Microsoft Power Platform (Power Apps, Power Automate, Power Pages)
-- <img width=15 src="https://img.icons8.com/ios/50/microsoft-dynamics-365.png"/> Dynamics 365 (Model-driven apps, Plugins, JavaScript, PCF)
-- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759319-69ca0edf-36dd-4d9d-b7a8-1074b2112e29.png"/> Swift & iOS Frameworks
-- <img width=15 src="https://user-images.githubusercontent.com/59176579/158831428-918705d6-4bc3-4456-9e54-8cce2da587d7.png"/> SwiftUI, UIKit
-- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759817-9402e32f-adab-452b-a533-c35b18839202.png"/> Git, DevOps, CI/CD, Agile (Scrum)
+-  Microsoft Power Platform (Power Apps, Power Automate, Power Pages)
+-  Dynamics 365 (Model-driven apps, Plugins, JavaScript, PCF)
+-  React, Next.js, JavaScript, TypeScript
+-  HTML, CSS, Bootstrap, jQuery
+-  PHP, Laravel
+-  Swift & iOS Frameworks (SwiftUI, UIKit)
+-  Git, DevOps, CI/CD, Agile (Scrum)
 
 <br/>
 
